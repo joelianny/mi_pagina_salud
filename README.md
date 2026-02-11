@@ -1,8 +1,10 @@
-<h1>Educación para la Salud</h1>
-<p>Esta página comparte información sencilla para cuidar nuestra salud.</p>
 
-<h2>Hábitos saludables</h2>
-<p>Pequeños cambios diarios pueden mejorar tu bienestar físico y mental.</p>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf6f6;
+    padding: 40px;
+}
 
-<h2>Contacto</h2>
-<p>Instagram: @tupagina</p>
+h1 {
+    color: #00796b;
+}
